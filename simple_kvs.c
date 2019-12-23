@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 
-const int N = 5 ;
+const int N = 10 ; // int = 10
 // simple implementation : tableau de structures :
 
 struct S_KVS{
